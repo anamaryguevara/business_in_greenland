@@ -2,7 +2,7 @@
   "name": "greenland",
   "homepage": "https://businessingreenland.com",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",

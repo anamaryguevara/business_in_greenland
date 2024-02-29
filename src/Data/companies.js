@@ -48,6 +48,7 @@ import pdf10 from "../Resourses/PDFs/Illit_Forsikringit.pdf";
 import pdf12 from "../Resourses/PDFs/Nordic_Camp_Supply.pdf";
 import pdf13 from "../Resourses/PDFs/Greenland_Resources.pdf";                                                  
 import pdf16 from "../Resourses/PDFs/BDO.pdf";
+import pdf17 from "../Resourses/PDFs/Lumina.pdf";
 import pdf20 from "../Resourses/PDFs/North_Water_Greenland.pdf"; 
 import pdf21 from "../Resourses/PDFs/QBC.pdf";
 import pdf26 from "../Resourses/PDFs/Nuna_Law_Firm.pdf";
@@ -206,7 +207,7 @@ export const companies = [
     name: "Lumina Sustainable Materials A/S",
     logo: logo17,
     website: "http://luminamaterials.com/",
-    pdf: null,
+    pdf: pdf17,
     type: "withmail",
     email: `bent@lumina.gl?subject=PDAC ${getYear()}`,
     id: 17

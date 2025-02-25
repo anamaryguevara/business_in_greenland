@@ -72,7 +72,7 @@ import { getYear } from "../utils";
 
 export const companies = [
   {
-    name: "60North Greenland",
+    name: "60NorthGreenland",
     logo: logo1,
     website: "https://www.60north.gl/en/",
     pdf: pdf1,

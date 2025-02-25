@@ -7,7 +7,7 @@ import upBtn from "./Resourses/Images/up.svg";
 import ScrollToTop from "react-scroll-up";
 import Footer from "./Components/Footer";
 import MyButton from "./Components/MyButton";
-import logo from "./Resourses/Images/Greenland_Magazine.jpeg"
+import logo from "./Resourses/Images/2024_Greenland UK_forside.jpg"
 import { getYear } from "./utils";
 class App extends Component {
   state = {
@@ -50,10 +50,10 @@ class App extends Component {
             <h1>Welcome to PDAC {getYear()}</h1>
             <section className="program-description-section-single"> 
               <div className="program-description">
-                <h2>Greenland Magazine 2023 - 2024</h2>
-                <img src={logo} alt="Greenland Magazine 2023-2024"/>
+                <h2>Greenland Magazine 2024 - 2025</h2>
+                <img src={logo} alt="Greenland Magazine 2024-2025"/>
                 <MyButton
-                  link="https://www.e-pages.dk/plb/162/"
+                  link="https://www.e-pages.dk/plb/165"
                   linkName="DOWNLOAD"
                   id={`${this.props.uid}`}
                 />

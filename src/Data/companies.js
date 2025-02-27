@@ -50,7 +50,7 @@ import pdf11 from "../Resourses/PDFs/2025_BMS_Magasin.pdf";
 import pdf12 from "../Resourses/PDFs/2025_ksms.pdf";
 import pdf13 from "../Resourses/PDFs/2025_Greenland_Resources.pdf";                                                  
 import pdf16 from "../Resourses/PDFs/2025_BDO.pdf";
-import pdf17 from "../Resourses/PDFs/2025_Lumina.pdf";
+import pdf17 from "../Resourses/PDFs/2025_NEW_Lumina.pdf";
 import pdf18 from "../Resourses/PDFs/2025_EMJ.pdf";
 import pdf20 from "../Resourses/PDFs/2025_North_Water_Greenland.pdf"; 
 import pdf21 from "../Resourses/PDFs/2025_Nuna.pdf";

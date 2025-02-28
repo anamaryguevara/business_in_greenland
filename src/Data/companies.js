@@ -57,7 +57,7 @@ import pdf21 from "../Resourses/PDFs/2025_Nuna.pdf";
 import pdf24 from "../Resourses/PDFs/2025_bank.pdf";
 import pdf26 from "../Resourses/PDFs/2025_nuna_law.pdf";
 import pdf30 from "../Resourses/PDFs/2025_Sikuki.pdf";
-import pdf31 from "../Resourses/PDFs/2025_COWI_PDAC.pdf";
+import pdf31 from "../Resourses/PDFs/2025_NEW_COWI.pdf";
 import pdf34 from "../Resourses/PDFs/2025_Kommuneqarfik_Sermersooq.pdf";
 import pdf35 from "../Resourses/PDFs/2025_Kalaallit_Forsikring.pdf";
 import pdf36 from "../Resourses/PDFs/2025_Greenland_Business_Association_(GE).pdf";
